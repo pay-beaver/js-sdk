@@ -1,0 +1,29 @@
+{
+  "name": "beaver-sdk",
+  "version": "1.0.0",
+  "description": "Beaver Subscriptions javascript SDK for merchants.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/pay-beaver/js-sdk.git"
+  },
+  "keywords": [
+    "web3",
+    "subscriptions",
+    "ethereum",
+    "crypto",
+    "sdk"
+  ],
+  "author": "nebolax",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pay-beaver/js-sdk/issues"
+  },
+  "homepage": "https://github.com/pay-beaver/js-sdk#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
